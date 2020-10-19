@@ -1,0 +1,15 @@
+
+#container {
+width: 900 px
+border:1px solid black;
+margin :0 auto;
+}
+#header {
+background-color :#000;
+width: 896px;
+margin :10px auto;
+}
+#brad{
+font-size: 20px;
+color : #FFF;
+}
